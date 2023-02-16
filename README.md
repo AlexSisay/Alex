@@ -13,4 +13,4 @@ The watermark:
         
 Try to run the notebook file to figure it out by your own.
 
-Look at the [presentation](www.google.com) provided to see the result and some analysis.        
+Look at the [presentation](https://github.com/AlexSisay/Digital-Image-Processing-Watermarking-/blob/master/WaterMarkingPresentation.pdf) provided to see the result and some analysis.        
